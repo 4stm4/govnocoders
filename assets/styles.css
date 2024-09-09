@@ -26,6 +26,7 @@ header {
     height: 200px;
     border-radius: 7px;
     margin: 1em;
+    border: 1px solid #584732;
 }
 
 .title {
